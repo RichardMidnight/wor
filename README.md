@@ -12,7 +12,7 @@ Windows on Raspberry Pi
       np@thankyou.com
 
 3) Optimize
-    - F10-setup, Raspberry pi settings:
+    - boot-ESC / Device Manager / Raspberry Pi config:
         - Set video to 720
         - set RAM to more than 3G
     - Windows setup:
