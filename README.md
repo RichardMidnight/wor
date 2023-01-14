@@ -12,7 +12,9 @@ Windows on Raspberry Pi
       np@thankyou.com
 
 3) Optimize
-    - Set video to 720
-    - set RAM to more than 3G
-    - Turn off startups. Settings / search 'startup' / select startup apps...
-    - Turn off performance... Settings / search 'perf' select Apearance and performance...  select "best performance"
+    - F10-setup, Raspberry pi settings:
+        - Set video to 720
+        - set RAM to more than 3G
+    - Windows setup:
+        - Turn off startups:  Settings / search 'startup' / select startup apps / turn all off
+        - Set to best performance:  Settings / search 'perform' select 'Adjust the Apearance..." / select "best performance"
