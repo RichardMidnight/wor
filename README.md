@@ -15,6 +15,7 @@ Windows on Raspberry Pi
     - boot-ESC / Device Manager / Raspberry Pi config:
         - Set video to 720
         - set RAM to more than 3G
+        - you may want to change the boot order and put the mmc on the top
     - Windows setup:
         - Turn off startups:  Settings / search 'startup' / select startup apps / turn all off
         - Set to best performance:  Settings / search 'perform' select 'Adjust the Apearance..." / select "best performance"
