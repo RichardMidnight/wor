@@ -11,8 +11,8 @@ Windows on Raspberry Pi
 2) Install Windows with a local account..
       np@thankyou.com
 
-3) Optomize
-    Set video to 720
-    set RAM to more than 3G
-    Turn off startups. Settings / search 'startup' / select startjup apps...
-    Turn off performance... Settings / search 'perf' select Apearance and performance...  select "best performance"
+3) Optimize
+    - Set video to 720
+    - set RAM to more than 3G
+    - Turn off startups. Settings / search 'startup' / select startup apps...
+    - Turn off performance... Settings / search 'perf' select Apearance and performance...  select "best performance"
